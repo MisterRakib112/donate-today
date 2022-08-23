@@ -68,8 +68,9 @@ h1{
 .amount-inp input{
     border: none;
     display: block;
-    margin-left: 200px;
+    margin-left: 180px;
     margin-bottom: 10px;
+    padding: 10px 40px;
     
 }
 .inp-border{
